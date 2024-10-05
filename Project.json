@@ -5,7 +5,7 @@
   "notes": "Test firmware for ESP",
   "builds": [
     {
-      "chipFamily": "ESP",
+      "chipFamily": "NodeMCU",
       "parts": [
         {
           "path": "https://github.com/Mark-IV-x5/OTAupdate/main/firmware.bin",
