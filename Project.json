@@ -1,11 +1,11 @@
 {
   "name": "OTAupdate",
   "about": "Проект оформления",
-  "version": "1.1",
+  "version": "6.5",
   "notes": "Test firmware for ESP",
   "builds": [
     {
-      "chipFamily": "NodeMCU",
+      "chipFamily": "",
       "parts": [
         {
           "path": "https://github.com/Mark-IV-x5/OTAupdate/main/firmware.bin",
