@@ -2,10 +2,10 @@
   "name": "OTAupdate",
   "about": "Проект оформления",
   "version": "1.1",
-  "notes": "тестовая версия",
+  "notes": "Test firmware for ESP",
   "builds": [
     {
-      "chipFamily": "ESP8266",
+      "chipFamily": "ESP",
       "parts": [
         {
           "path": "https://github.com/Mark-IV-x5/OTAupdate/firmware.bin",
