@@ -8,7 +8,7 @@
       "chipFamily": "ESP",
       "parts": [
         {
-          "path": "https://github.com/Mark-IV-x5/OTAupdate/firmware.bin",
+          "path": "https://github.com/Mark-IV-x5/OTAupdate/main/firmware.bin",
           "offset": 0
         }
       ]
