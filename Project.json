@@ -2,7 +2,7 @@
   "name": "OTAupdate",
   "about": "Проект оформления",
   "version": "6.5",
-  "notes": "Test firmware for ESP",
+  "notes": "Test firmware for ESP8255",
   "builds": [
     {
       "chipFamily": "ESP8266",
