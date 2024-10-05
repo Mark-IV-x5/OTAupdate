@@ -1,14 +1,14 @@
 {
   "name": "AutoOTA update",
   "about": "NodeMCU",
-  "version": "2.1",
-  "notes": "AutoOta v2.1",
+  "version": "1.0",
+  "notes": "AutoOta v1",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/autoota_v2.1.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/autoota_v1.bin",
           "offset": 0
         }
       ]
