@@ -6,7 +6,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/AutoOTA_3.0.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/AutoOTA_v3.0.bin",
           "offset": 0
         }
       ]
