@@ -1,14 +1,14 @@
 {
   "name": "AutoOTA update",
   "about": "NodeMCU",
-  "version": "6.5",
-  "notes": "Clock_ESP12_Green_v6",
+  "version": "6.6",
+  "notes": "Clock ESP12 Green",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.6.bin",
           "offset": 0
         }
       ]
