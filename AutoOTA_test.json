@@ -1,6 +1,7 @@
 {
   "name": "OTAupdate",
-  "about": "Проект оформления","version": "1.0",
+  "about": "Проект оформления",
+  "version": "1.0",
   "notes": "Test AutoOTA updater.",
   "builds": [
     {
