@@ -1,8 +1,8 @@
 {
   "name": "OTAupdate",
   "about": "Test",
-  "version": "2",
-  "notes": "Test AutoOTA updater. 11",
+  "version": "1",
+  "notes": "Test AutoOTA updater. ver 1",
   "builds": [
     {
       "chipFamily": "ESP8266",
