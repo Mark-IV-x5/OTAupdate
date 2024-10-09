@@ -1,7 +1,7 @@
 {
   "name": "OTAupdate",
   "about": "Test",
-  "version": "1",
+  "version": "2",
   "notes": "Test AutoOTA updater.",
   "builds": [
     {
