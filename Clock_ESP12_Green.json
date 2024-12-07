@@ -1,8 +1,8 @@
 {
-  "name": "AutoOTA update",
-  "about": "NodeMCU",
-  "version": "6.6",
-  "notes": "Clock ESP12 Green",
+  "name": "Clock ESP12 Green",
+  "about": "ESP12-E",
+  "version": "6.0",
+  "notes": "AutoOTA update github",
   "builds": [
     {
       "chipFamily": "ESP8266",
