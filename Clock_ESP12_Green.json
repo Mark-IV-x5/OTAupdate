@@ -2,7 +2,7 @@
   "name": "Clock ESP12 Green",
   "about": "ESP12-E",
   "version": "6.0",
-  "notes": "AutoOTA update github",
+  "notes": "AutoOTA github",
   "builds": [
     {
       "chipFamily": "ESP8266",
