@@ -26,7 +26,7 @@
       "chipFamily": "ESP32-C3",
       "parts": [
         {
-          "path": https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/AutoOTA_v1.4.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/AutoOTA_v1.4.bin",
           "offset": 0
         }
       ]
