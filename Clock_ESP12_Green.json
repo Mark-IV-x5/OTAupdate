@@ -1,7 +1,7 @@
 {
   "name": "Clock ESP12 Green",
   "about": "ESP12-E",
-  "version": "6.0",
+  "version": "6.6",
   "notes": "AutoOTA github",
   "builds": [
     {
@@ -15,3 +15,4 @@
     }
   ]
 }
+
