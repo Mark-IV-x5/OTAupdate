@@ -1,5 +1,5 @@
 {
-  "name": "Clock2 ESP12 Green",
+  "name": "Clock ESP12 Green",
   "about": "ESP12-E",
   "version": "6.7",
   "notes": "AutoOTA + NTPClient",
