@@ -1,7 +1,7 @@
 {
   "name": "Clock ESP12 Green",
   "about": "ESP12-E",
-  "version": "6.10",
+  "version": "6.9",
   "notes": "AutoOTA + NTPClient",
   "builds": [
     {
