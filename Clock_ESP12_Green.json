@@ -1,14 +1,14 @@
 {
   "name": "Clock ESP12 Green",
   "about": "ESP12-E",
-  "version": "6.8",
+  "version": "6.9",
   "notes": "AutoOTA + NTPClient",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.8.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.10.bin",
           "offset": 0
         }
       ]
