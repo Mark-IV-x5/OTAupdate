@@ -1,14 +1,14 @@
 {
-  "name": "Clock ESP12 Green",
+  "name": "Clock ESP12 OLED",
   "about": "ESP12-E",
-  "version": "6.12",
+  "version": "1.011",
   "notes": "Тестовая версия прошивки",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/123/Clock_ESP12_Green_v6.12.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/test-firmware/Clock_ESP12_OLED_AutoOta_NTPClient_v1.01.bin",
           "offset": 0
         }
       ]
