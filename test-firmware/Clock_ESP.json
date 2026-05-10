@@ -1,7 +1,7 @@
 {
   "name": "Clock ESP12 OLED",
   "about": "ESP12-E",
-  "version": "1.011",
+  "version": "1.01",
   "notes": "Тестовая версия прошивки",
   "builds": [
     {
