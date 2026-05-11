@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/test-firmware/Clock_ESP12_OLED_AutoOta_NTPClient_v1.01.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/test-firmware/Clock_ESP12_OLED_128_32_AutoOta_NTP_v1.01.bin",
           "offset": 0
         }
       ]
