@@ -2,7 +2,7 @@
   "name": "Clock ESP12 Green",
   "about": "Прошивки и файлы OTA для часов на ESP8266",
   "version": "6.15",
-  "notes": "29.07.26 исправлен баг библиотеки AutoOTA с чтением JSON",
+  "notes": "от 29.07.26 исправлен баг библиотеки AutoOTA с чтением JSON",
   "builds": [
     {
       "chipFamily": "ESP8266",
