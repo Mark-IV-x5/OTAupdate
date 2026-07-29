@@ -12,42 +12,6 @@
           "offset": 0
         }
       ]
-    },
-    {
-      "chipFamily": "ESP32",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32-C3",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32-S2",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
-          "offset": 0
-        }
-      ]
-    },
-    {
-      "chipFamily": "ESP32-S3",
-      "parts": [
-        {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
-          "offset": 0
-        }
-      ]
     }
   ]
 }
