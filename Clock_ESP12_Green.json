@@ -2,7 +2,7 @@
   "name": "Clock ESP12 Green",
   "about": "Update 28.07.26",
   "version": "6.15",
-  "notes": "Исправлен баг с библиотекой AutoOTA",
+  "notes": "fix lib AutoOTA",
   "builds": [
     {
       "chipFamily": "ESP8266",
