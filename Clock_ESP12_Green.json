@@ -1,6 +1,6 @@
 {
   "name": "Clock ESP12 Green",
-  "about": "Прошивки и файлы OTA для часов на ESP8266",
+  "about": "Прошивка и файлы OTA для часов на ESP",
   "version": "6.15",
   "notes": "от 29.07.26 исправлен баг библиотеки AutoOTA с чтением JSON",
   "builds": [
@@ -9,6 +9,42 @@
       "parts": [
         {
           "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
+          "offset": 0
+        }
+      ]
+    },
+  {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP32_Green_v6.16.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP32-C3_Green_v6.16.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP32-S2_Green_v6.16.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP32-S3_Green_v6.16.bin",
           "offset": 0
         }
       ]
