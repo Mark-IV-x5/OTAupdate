@@ -1,8 +1,8 @@
 {
   "name": "Clock ESP12 Green",
-  "about": "Mark-IV-x5",
+  "about": "Прошивки и файлы OTA для часов на ESP8266",
   "version": "6.15",
-  "notes": "Update 28.07.26 fix lib AutoOTA",
+  "notes": "29.07.26 исправлен баг библиотеки AutoOTA с чтением JSON",
   "builds": [
     {
       "chipFamily": "ESP8266",
