@@ -1,14 +1,50 @@
 {
   "name": "Clock ESP12 Green",
-  "about": "ESP12-E",
-  "version": "6.14",
-  "notes": "AutoOTA + NTPClient",
+  "about": "Update 28.07.26",
+  "version": "6.15",
+  "notes": "Исправлен баг с библиотекой AutoOTA",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.14.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-C3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S2",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
+          "offset": 0
+        }
+      ]
+    },
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
           "offset": 0
         }
       ]
