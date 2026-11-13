@@ -1,14 +1,14 @@
 {
-  "name": "Clock ESP12 Green",
-  "about": "Прошивка и файлы OTA для часов на ESP",
-  "version": "6.15",
-  "notes": "от 29.07.26 исправлен баг библиотеки AutoOTA с чтением JSON",
+  "name": "Clock_ESP12_Green",
+  "about": "Временный JSON для перехода на новую версию прошивок",
+  "version": "7.15",
+  "notes": "12.11.2026 Заголовок JSON для перехода на новую линейку прошивок WiFiClock_Green",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/Clock_ESP12_Green_v6.15.bin",
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/WiFiClock_Green_v1.0.bin",
           "offset": 0
         }
       ]
