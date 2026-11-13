@@ -1,0 +1,17 @@
+{
+  "name": "WiFiClock_Green",
+  "about": "Прошивка для WiFi часов на ESP",
+  "version": "1.0",
+  "notes": "12.11.2026 - Прошивка 1.0 под Green дисплей с WEB интерфейсом.",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/Mark-IV-x5/OTAupdate/main/WiFiClock_Green_v1.0.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
