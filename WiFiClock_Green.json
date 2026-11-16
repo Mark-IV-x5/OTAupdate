@@ -1,7 +1,7 @@
 {
   "name": "WiFiClock_Green",
   "about": "Прошивка для WiFi часов на ESP",
-  "version": "1.0",
+  "version": "1.1",
   "notes": "12.11.2026 - Прошивка 1.0 под Green дисплей с WEB интерфейсом.",
   "builds": [
     {
